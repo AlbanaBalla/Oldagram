@@ -33,10 +33,10 @@ const posts = [
 ]
 
 
-let heart = "images/icon-heart.png"
-let comment = "images/icon-comment.png"
-let dm = "images/icon-dm.png"
-let likeIcon = "images/like.png"
+let heart = "icon-heart.png"
+let comment = "icon-comment.png"
+let dm = "icon-dm.png"
+let likeIcon = "like.png"
 
 const mainEl = document.getElementById("post")
  let html = ""
